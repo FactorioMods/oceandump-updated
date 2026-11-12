@@ -1,0 +1,24 @@
+Version: 0.7.0
+Date: 2024.12.03
+  Changes:
+    - Made Aquilo work in the usual fashion and resolved never to try to mod anything without coffee ever again.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.0
+Date: 2024.12.03
+  Changes:
+    - Added Aquilo, in an ugly fashion, because the water tiles there can't be referenced in the same way as all the other ones in the game for whatever reason.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2024.11.26
+  Changes:
+    - Added the ability to dump on Gleba and Fulgora and made all dumping optional through settings
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 2024.11.26
+  Changes:
+    - Fixed an error
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2024.11.26
+  Changes:
+    - Initial (working) release.
