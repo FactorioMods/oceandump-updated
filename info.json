@@ -1,13 +1,17 @@
 {
-	"name": "oceandump",
-	"version": "0.7.0",
-	"title": "Ocean Dumping",
-	"author": "Galadedrid",
-	"description": "Dump unwanted items directly into Water (Nauvis/Gleba), Oil (Fulgora) or the Ammonia Ocean (Aquilo).",
-	"factorio_version": "2.0",
-	"homepage":"https://mods.factorio.com/mod/oceandump/",
-	"dependencies": [
-		"base>=2.0.0",
-		"space-age >= 2.0.0"
-	]
+  "name": "oceandump-updated",
+  "version": "1.0.0",
+  "title": "Ocean Dumping: Updated",
+  "author": "Galadedrid; FactorioMods (Factorio 2.1 port)",
+  "description": "Factorio 2.1 compatibility fork of oceandump. Dump unwanted items directly into Water (Nauvis/Gleba), Oil (Fulgora) or the Ammonia Ocean (Aquilo).",
+  "factorio_version": "2.1",
+  "homepage": "https://mods.factorio.com/mod/oceandump/",
+  "dependencies": [
+    "base >= 2.1.24",
+    "space-age >= 2.0.0",
+    "! oceandump"
+  ],
+  "migrates_from": [
+    "oceandump"
+  ]
 }
